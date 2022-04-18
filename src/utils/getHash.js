@@ -4,3 +4,15 @@ const getHash = () => location.hash
                         .split('/')[1] || '/';
 
 export default getHash;
+
+// const data = {
+//     0: {
+//         img: 'asdf'
+//     },
+//     1: {
+//         imG: 'asdf',
+//     }
+
+// }
+
+// data[0].img
